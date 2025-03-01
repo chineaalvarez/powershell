@@ -14,7 +14,7 @@ This repository contains various PowerShell scripts for system administration, a
 To use the scripts in this repository, clone or download the repository to your local machine:
 
 ```powershell
-git clone https://github.com/AlfredoChinea/Powershell.git
+git clone https://github.com/chineaalvarez/powershell.git
 ```
 
 ## Prerequisites
