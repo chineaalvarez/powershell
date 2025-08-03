@@ -1,6 +1,3 @@
-#Requires -Module Microsoft.Graph.DeviceManagement
-#Requires -Module Microsoft.Graph.Devices
-
 <#
 .SYNOPSIS
 Checks compliance mismatches between Intune and Azure AD devices and optionally updates compliance status in Azure AD.
